@@ -12,7 +12,7 @@
 
 模块被组织成一个称为[[yii\base\Module::basePath|base path]]的目录，
 在该目录中有子目录如`controllers`, `models`, `views` 分别为对应控制器，模型，视图和其他代码，和应用非常类似。
-如下例子显示一个模型的目录结构：
+如下例子显示一个模块的目录结构：
 
 ```
 forum/
